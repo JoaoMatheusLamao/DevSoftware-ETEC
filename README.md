@@ -1,2 +1,2 @@
 # DevSoftware-ETEC
-Desenvolvimento de Sistemas (Etec Machado de Assis)
+Repositório destinado às aulas de Desenvolvimento de Sistemas (Etec Machado de Assis)
