@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\bin\Debug\Lucro de uma compra.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\bin\Debug\Lucro de uma compra.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\bin\Debug\Lucro de uma compra.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\obj\Debug\Lucro de uma compra.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\obj\Debug\Lucro de uma compra.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\obj\Debug\Lucro de uma compra.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 28 - Lucro de uma compra\Lucro de uma compra\obj\Debug\Lucro de uma compra.pdb

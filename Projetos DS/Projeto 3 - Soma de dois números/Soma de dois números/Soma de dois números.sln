@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma de dois números", "Soma de dois números.csproj", "{00119E9A-0B84-446C-A53B-893198583792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00119E9A-0B84-446C-A53B-893198583792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00119E9A-0B84-446C-A53B-893198583792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00119E9A-0B84-446C-A53B-893198583792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00119E9A-0B84-446C-A53B-893198583792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BBC9CA-5D36-4A25-B32F-697830836598}
+	EndGlobalSection
+EndGlobal

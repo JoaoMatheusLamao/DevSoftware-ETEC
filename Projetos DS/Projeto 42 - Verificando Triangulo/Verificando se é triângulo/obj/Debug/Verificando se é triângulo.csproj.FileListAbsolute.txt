@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\bin\Debug\Verificando se é triângulo.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\bin\Debug\Verificando se é triângulo.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\bin\Debug\Verificando se é triângulo.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\obj\Debug\Verificando se é triângulo.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\obj\Debug\Verificando se é triângulo.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\obj\Debug\Verificando se é triângulo.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 42 - Verificando Triangulo\Verificando se é triângulo\obj\Debug\Verificando se é triângulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\bin\Debug\Soma dos numerosFOR.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\bin\Debug\Soma dos numerosFOR.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\bin\Debug\Soma dos numerosFOR.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\obj\Debug\Soma dos numerosFOR.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\obj\Debug\Soma dos numerosFOR.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\obj\Debug\Soma dos numerosFOR.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\Projetos DS\Projeto 49 - Soma dos numeros FOR\Soma dos numerosFOR\obj\Debug\Soma dos numerosFOR.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\bin\Debug\Aptidão para vaga de emprego2.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\bin\Debug\Aptidão para vaga de emprego2.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\bin\Debug\Aptidão para vaga de emprego2.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\obj\Debug\Aptidão para vaga de emprego2.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\obj\Debug\Aptidão para vaga de emprego2.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\obj\Debug\Aptidão para vaga de emprego2.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 24 - IF ELSE aptidão para emprego 2\Aptidão para vaga de emprego2\obj\Debug\Aptidão para vaga de emprego2.pdb

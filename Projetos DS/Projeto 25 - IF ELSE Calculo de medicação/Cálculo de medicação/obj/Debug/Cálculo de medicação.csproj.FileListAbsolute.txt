@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\bin\Debug\Cálculo de medicação.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\bin\Debug\Cálculo de medicação.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\bin\Debug\Cálculo de medicação.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\obj\Debug\Cálculo de medicação.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\obj\Debug\Cálculo de medicação.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\obj\Debug\Cálculo de medicação.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 25 - IF ELSE Calculo de medicação\Cálculo de medicação\obj\Debug\Cálculo de medicação.pdb

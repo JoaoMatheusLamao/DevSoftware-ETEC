@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\bin\Debug\Média do aluno -IF ELSE.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\bin\Debug\Média do aluno -IF ELSE.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\bin\Debug\Média do aluno -IF ELSE.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\obj\Debug\Média do aluno -IF ELSE.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\obj\Debug\Média do aluno -IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\obj\Debug\Média do aluno -IF ELSE.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 22 - Estrutura IF ELSE Média Escolar\Média do aluno -IF ELSE\obj\Debug\Média do aluno -IF ELSE.pdb

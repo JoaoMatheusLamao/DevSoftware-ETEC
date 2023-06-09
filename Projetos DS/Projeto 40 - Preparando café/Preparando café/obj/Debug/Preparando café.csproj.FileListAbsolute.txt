@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\bin\Debug\Preparando café.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\bin\Debug\Preparando café.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\bin\Debug\Preparando café.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\obj\Debug\Preparando café.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\obj\Debug\Preparando café.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\obj\Debug\Preparando café.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 40 - Preparando café\Preparando café\obj\Debug\Preparando café.pdb

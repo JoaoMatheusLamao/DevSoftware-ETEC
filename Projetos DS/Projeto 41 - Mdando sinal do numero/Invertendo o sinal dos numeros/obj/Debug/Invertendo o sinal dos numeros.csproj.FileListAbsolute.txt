@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\bin\Debug\Invertendo o sinal dos numeros.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\bin\Debug\Invertendo o sinal dos numeros.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\bin\Debug\Invertendo o sinal dos numeros.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\obj\Debug\Invertendo o sinal dos numeros.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\obj\Debug\Invertendo o sinal dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\obj\Debug\Invertendo o sinal dos numeros.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 41 - Mdando sinal do numero\Invertendo o sinal dos numeros\obj\Debug\Invertendo o sinal dos numeros.pdb

@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\bin\Debug\Raiz Quadrada.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\bin\Debug\Raiz Quadrada.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\bin\Debug\Raiz Quadrada.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\obj\Debug\Raiz Quadrada.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\obj\Debug\Raiz Quadrada.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\obj\Debug\Raiz Quadrada.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 16 - Calculo com raiz quadrada\Raiz Quadrada\obj\Debug\Raiz Quadrada.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\bin\Debug\Classe eleitoral.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\bin\Debug\Classe eleitoral.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\bin\Debug\Classe eleitoral.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\obj\Debug\Classe eleitoral.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\obj\Debug\Classe eleitoral.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\obj\Debug\Classe eleitoral.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 31 - Classe eleitoral\Classe eleitoral\obj\Debug\Classe eleitoral.pdb

@@ -1,0 +1,20 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.FrmRelogio.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.pdb
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.exe
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\bin\Debug\Relogio.pdb
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.FrmRelogio.resources
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.exe
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Execício 14 - Relógio\Relogio\Relogio\obj\Debug\Relogio.pdb

@@ -1,0 +1,4 @@
+Exercicio 5
+
+Elaborar um programa em C# que entre com o nome, idade e sexo de 15
+pessoas. Mostrar o nome se for do sexo feminino e tiver mais de 21 anos.

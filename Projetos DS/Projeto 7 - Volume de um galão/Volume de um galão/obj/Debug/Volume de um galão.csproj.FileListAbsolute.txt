@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\bin\Debug\Volume de um galão.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\bin\Debug\Volume de um galão.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\bin\Debug\Volume de um galão.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\obj\Debug\Volume de um galão.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\obj\Debug\Volume de um galão.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\obj\Debug\Volume de um galão.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 7 - Volume de um galão\Volume de um galão\obj\Debug\Volume de um galão.pdb

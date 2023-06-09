@@ -1,0 +1,19 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\bin\Debug\Desconto_inss.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.csproj.AssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.csproj.GenerateResource.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercício 7 ok\Desconto_inss\Desconto_inss\obj\Debug\Desconto_inss.pdb

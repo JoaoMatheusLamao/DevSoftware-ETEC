@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificação IF Par or Impar", "Verificação IF Par or Impar.csproj", "{B1AAEFAF-3FE8-4BF9-AC6A-737CFC9F246B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AAEFAF-3FE8-4BF9-AC6A-737CFC9F246B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AAEFAF-3FE8-4BF9-AC6A-737CFC9F246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AAEFAF-3FE8-4BF9-AC6A-737CFC9F246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AAEFAF-3FE8-4BF9-AC6A-737CFC9F246B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F5FA1F-6A68-47CF-9F80-8AEE279DAA9D}
+	EndGlobalSection
+EndGlobal

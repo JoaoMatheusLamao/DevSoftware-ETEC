@@ -1,0 +1,7 @@
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\bin\Debug\Soma 100 numeros.exe.config
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\bin\Debug\Soma 100 numeros.exe
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\bin\Debug\Soma 100 numeros.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\obj\Debug\Soma 100 numeros.csproj.AssemblyReference.cache
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\obj\Debug\Soma 100 numeros.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\obj\Debug\Soma 100 numeros.exe
+D:\2º ETIM DS\Projetos DS\Projeto 50 - soma cem num FOR\Soma 100 numeros\obj\Debug\Soma 100 numeros.pdb

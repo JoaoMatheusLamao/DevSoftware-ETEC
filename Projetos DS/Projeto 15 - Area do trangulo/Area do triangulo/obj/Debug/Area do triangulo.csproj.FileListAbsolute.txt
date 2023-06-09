@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\bin\Debug\Area do triangulo.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\bin\Debug\Area do triangulo.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\bin\Debug\Area do triangulo.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\obj\Debug\Area do triangulo.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\obj\Debug\Area do triangulo.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\obj\Debug\Area do triangulo.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 15 - Area do trangulo\Area do triangulo\obj\Debug\Area do triangulo.pdb

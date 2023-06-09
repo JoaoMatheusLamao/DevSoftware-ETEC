@@ -1,0 +1,3 @@
+Enunciado
+
+Elaborar um programa em C# que entre comos númerosenquanto forem positivos e mostre os números digitados.

@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\bin\Debug\Conversão de Temperaturas 2.0.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\bin\Debug\Conversão de Temperaturas 2.0.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\bin\Debug\Conversão de Temperaturas 2.0.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\obj\Debug\Conversão de Temperaturas 2.0.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\obj\Debug\Conversão de Temperaturas 2.0.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\obj\Debug\Conversão de Temperaturas 2.0.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 14 - Conversor de temperaturas 2.0\Conversão de Temperaturas 2.0\obj\Debug\Conversão de Temperaturas 2.0.pdb

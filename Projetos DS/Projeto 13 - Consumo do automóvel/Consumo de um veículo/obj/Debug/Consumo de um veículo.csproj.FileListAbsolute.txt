@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\bin\Debug\Consumo de um veículo.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\bin\Debug\Consumo de um veículo.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\bin\Debug\Consumo de um veículo.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\obj\Debug\Consumo de um veículo.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\obj\Debug\Consumo de um veículo.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\obj\Debug\Consumo de um veículo.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 13 - Consumo do automóvel\Consumo de um veículo\obj\Debug\Consumo de um veículo.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\bin\Debug\Consumo de um veículo.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\bin\Debug\Consumo de um veículo.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\bin\Debug\Consumo de um veículo.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\obj\Debug\Consumo de um veículo.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\obj\Debug\Consumo de um veículo.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\obj\Debug\Consumo de um veículo.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 38 - Consumo de um automovel\Consumo de um veículo\obj\Debug\Consumo de um veículo.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\bin\Debug\Prestacoes de um produto.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\bin\Debug\Prestacoes de um produto.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\bin\Debug\Prestacoes de um produto.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\obj\Debug\Prestacoes de um produto.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\obj\Debug\Prestacoes de um produto.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\obj\Debug\Prestacoes de um produto.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 29 - Prestacoes de um produto\Prestacoes de um produto\obj\Debug\Prestacoes de um produto.pdb

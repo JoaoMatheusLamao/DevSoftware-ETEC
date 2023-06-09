@@ -1,0 +1,10 @@
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\bin\Debug\ordenando_numeros.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\bin\Debug\ordenando_numeros.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\bin\Debug\ordenando_numeros.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\bin\Debug\ordenando_numeros.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 11 - Ordem decrescente\ordenando_numeros\ordenando_numeros\obj\Debug\ordenando_numeros.pdb

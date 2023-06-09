@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\bin\Debug\Meses do ano_switch.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\bin\Debug\Meses do ano_switch.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\bin\Debug\Meses do ano_switch.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\obj\Debug\Meses do ano_switch.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\obj\Debug\Meses do ano_switch.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\obj\Debug\Meses do ano_switch.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\Meses do ano_switch\obj\Debug\Meses do ano_switch.pdb

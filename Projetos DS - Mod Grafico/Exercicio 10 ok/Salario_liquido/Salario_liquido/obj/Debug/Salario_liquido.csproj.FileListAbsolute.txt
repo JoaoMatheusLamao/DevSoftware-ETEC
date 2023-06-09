@@ -1,0 +1,10 @@
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.csproj.GenerateResource.Cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.csproj.AssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 10\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.csproj.CoreCompileInputs.cache

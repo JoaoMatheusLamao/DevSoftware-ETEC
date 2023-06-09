@@ -1,0 +1,5 @@
+Exercicio 4
+
+Elaborar um programa em c# que leia os três lados de um triângulo, verifique se esses  lados formam um triangulo  e 
+mostre  se o mesmo é equilátero,  isósceles ou  escaleno;  Caso contráriomostre a mensagem “os lados informados 
+não formam um triangulo”.

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aptidão para vaga de emprego2", "Aptidão para vaga de emprego2.csproj", "{CD25BC46-8F7D-4983-80D9-595856674E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD25BC46-8F7D-4983-80D9-595856674E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD25BC46-8F7D-4983-80D9-595856674E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD25BC46-8F7D-4983-80D9-595856674E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD25BC46-8F7D-4983-80D9-595856674E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9321FF6-DCC5-4AE7-A44E-844BE2AE55BF}
+	EndGlobalSection
+EndGlobal

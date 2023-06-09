@@ -1,0 +1,12 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\bin\Debug\Maior_6.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\bin\Debug\Maior_6.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.FrmMaiorde6.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\bin\Debug\Maior_6.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\bin\Debug\Maior_6.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exemplo Maior_6\Maior_6\Maior_6\obj\Debug\Maior_6.pdb

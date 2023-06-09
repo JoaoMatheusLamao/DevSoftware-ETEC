@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\obj\Debug\credito_bancario.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\obj\Debug\credito_bancario.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\bin\Debug\credito_bancario.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\bin\Debug\credito_bancario.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\bin\Debug\credito_bancario.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\obj\Debug\credito_bancario.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 34 - Credito_bancario\credito_bancario\obj\Debug\credito_bancario.pdb

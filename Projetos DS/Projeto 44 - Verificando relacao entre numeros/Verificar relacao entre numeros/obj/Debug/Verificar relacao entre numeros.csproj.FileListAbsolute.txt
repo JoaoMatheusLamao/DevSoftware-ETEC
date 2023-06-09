@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\bin\Debug\Verificar relacao entre numeros.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\bin\Debug\Verificar relacao entre numeros.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\bin\Debug\Verificar relacao entre numeros.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\obj\Debug\Verificar relacao entre numeros.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\obj\Debug\Verificar relacao entre numeros.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\obj\Debug\Verificar relacao entre numeros.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 44 - Verificando relacao entre numeros\Verificar relacao entre numeros\obj\Debug\Verificar relacao entre numeros.pdb

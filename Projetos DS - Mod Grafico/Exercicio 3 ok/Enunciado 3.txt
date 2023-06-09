@@ -1,0 +1,3 @@
+Exercicio 3
+
+Elaborar um programa em C# que efetue o cálculo da tabuada de um número qualquer.

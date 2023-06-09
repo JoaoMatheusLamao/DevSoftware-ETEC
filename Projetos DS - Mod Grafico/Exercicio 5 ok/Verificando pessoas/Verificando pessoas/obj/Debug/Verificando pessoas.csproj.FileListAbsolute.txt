@@ -1,0 +1,9 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\bin\Debug\Verificando pessoas.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando pessoas.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando_pessoas.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando_pessoas.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando pessoas.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\bin\Debug\Verificando pessoas.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\bin\Debug\Verificando pessoas.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando pessoas.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 5\Verificando pessoas\Verificando pessoas\obj\Debug\Verificando pessoas.pdb

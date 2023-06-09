@@ -1,0 +1,19 @@
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\bin\Debug\Verificando_triangulo.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\bin\Debug\Verificando_triangulo.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\bin\Debug\Verificando_triangulo.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.csproj.GenerateResource.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4\Verificando_triangulo\obj\Debug\Verificando_triangulo.csprojResolveAssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\bin\Debug\Verificando_triangulo.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\bin\Debug\Verificando_triangulo.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\bin\Debug\Verificando_triangulo.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.csproj.AssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.csproj.GenerateResource.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 4 ok\Verificando_triangulo\obj\Debug\Verificando_triangulo.pdb

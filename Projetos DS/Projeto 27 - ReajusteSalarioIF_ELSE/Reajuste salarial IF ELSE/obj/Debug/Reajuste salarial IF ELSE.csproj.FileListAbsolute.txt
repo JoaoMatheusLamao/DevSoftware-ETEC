@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\bin\Debug\Reajuste salarial IF ELSE.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\bin\Debug\Reajuste salarial IF ELSE.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\bin\Debug\Reajuste salarial IF ELSE.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\obj\Debug\Reajuste salarial IF ELSE.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\obj\Debug\Reajuste salarial IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\obj\Debug\Reajuste salarial IF ELSE.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 27 - ReajusteSalarioIF_ELSE\Reajuste salarial IF ELSE\obj\Debug\Reajuste salarial IF ELSE.pdb

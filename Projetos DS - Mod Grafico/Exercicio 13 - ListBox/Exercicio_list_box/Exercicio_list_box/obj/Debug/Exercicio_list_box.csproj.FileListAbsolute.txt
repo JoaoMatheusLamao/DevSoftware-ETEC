@@ -1,0 +1,9 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\bin\Debug\Exercicio_list_box.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\bin\Debug\Exercicio_list_box.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\bin\Debug\Exercicio_list_box.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 13 - ListBox\Exercicio_list_box\Exercicio_list_box\obj\Debug\Exercicio_list_box.pdb

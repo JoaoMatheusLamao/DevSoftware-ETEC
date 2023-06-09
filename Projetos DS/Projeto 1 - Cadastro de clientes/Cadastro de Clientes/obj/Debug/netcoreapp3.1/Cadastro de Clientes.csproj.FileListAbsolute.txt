@@ -1,0 +1,13 @@
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.exe
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.deps.json
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.runtimeconfig.json
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.runtimeconfig.dev.json
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.dll
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\bin\Debug\netcoreapp3.1\Cadastro de Clientes.pdb
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.csprojAssemblyReference.cache
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.AssemblyInfoInputs.cache
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.AssemblyInfo.cs
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.csproj.CoreCompileInputs.cache
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.dll
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.pdb
+D:\Etec\2º ETIM DS\DS\Projetos\Cadastro de clientes\Cadastro de Clientes\obj\Debug\netcoreapp3.1\Cadastro de Clientes.genruntimeconfig.cache

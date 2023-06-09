@@ -1,0 +1,4 @@
+Exercicio 6
+
+Elaborar um programa em C# que apresente o total da soma de todos os números
+inteiros divisíveis por 4 que sejam menores que 200 iniciando a contagem em 1.

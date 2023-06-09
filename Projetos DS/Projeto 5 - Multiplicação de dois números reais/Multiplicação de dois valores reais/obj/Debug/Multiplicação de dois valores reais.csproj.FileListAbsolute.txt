@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\obj\Debug\Multiplicação de dois valores reais.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\obj\Debug\Multiplicação de dois valores reais.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\bin\Debug\Multiplicação de dois valores reais.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\bin\Debug\Multiplicação de dois valores reais.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\bin\Debug\Multiplicação de dois valores reais.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\obj\Debug\Multiplicação de dois valores reais.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 5 - Multiplicação de dois números reais\Multiplicação de dois valores reais\obj\Debug\Multiplicação de dois valores reais.pdb

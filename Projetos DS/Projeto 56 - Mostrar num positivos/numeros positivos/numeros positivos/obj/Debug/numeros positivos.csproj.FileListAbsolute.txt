@@ -1,0 +1,5 @@
+D:\2º ETIM DS\Projetos DS\Projeto 56 - Mostrar num positivos\numeros positivos\numeros positivos\bin\Debug\numeros positivos.exe.config
+D:\2º ETIM DS\Projetos DS\Projeto 56 - Mostrar num positivos\numeros positivos\numeros positivos\bin\Debug\numeros positivos.exe
+D:\2º ETIM DS\Projetos DS\Projeto 56 - Mostrar num positivos\numeros positivos\numeros positivos\bin\Debug\numeros positivos.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 56 - Mostrar num positivos\numeros positivos\numeros positivos\obj\Debug\numeros positivos.exe
+D:\2º ETIM DS\Projetos DS\Projeto 56 - Mostrar num positivos\numeros positivos\numeros positivos\obj\Debug\numeros positivos.pdb

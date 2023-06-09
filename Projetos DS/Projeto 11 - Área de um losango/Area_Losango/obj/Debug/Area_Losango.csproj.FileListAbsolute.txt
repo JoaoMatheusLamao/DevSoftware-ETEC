@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\bin\Debug\Area_Losango.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\bin\Debug\Area_Losango.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\bin\Debug\Area_Losango.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\obj\Debug\Area_Losango.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\obj\Debug\Area_Losango.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\obj\Debug\Area_Losango.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 11 - Área de um losango\Area_Losango\obj\Debug\Area_Losango.pdb

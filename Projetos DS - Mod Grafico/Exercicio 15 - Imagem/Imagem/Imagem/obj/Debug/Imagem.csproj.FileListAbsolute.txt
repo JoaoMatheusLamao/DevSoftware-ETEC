@@ -1,0 +1,9 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\bin\Debug\Imagem.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\bin\Debug\Imagem.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\bin\Debug\Imagem.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.FrmImagem.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 15 - Imagem\Imagem\Imagem\obj\Debug\Imagem.pdb

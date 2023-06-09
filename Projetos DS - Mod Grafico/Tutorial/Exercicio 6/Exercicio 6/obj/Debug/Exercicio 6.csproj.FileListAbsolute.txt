@@ -1,0 +1,27 @@
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe.config
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.pdb
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Form1.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Properties.Resources.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csproj.GenerateResource.Cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csproj.GenerateResource.Cache
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe.config
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.exe
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.pdb
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.pdb
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csprojResolveAssemblyReference.cache
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Form1.resources
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio_6.Properties.Resources.resources
+I:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csproj.GenerateResource.Cache

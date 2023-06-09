@@ -1,0 +1,6 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\bin\Debug\contandoNumeros.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\bin\Debug\contandoNumeros.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\bin\Debug\contandoNumeros.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\obj\Debug\contandoNumeros.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\obj\Debug\contandoNumeros.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 57 - contando numeros\contandoNumeros\contandoNumeros\obj\Debug\contandoNumeros.pdb

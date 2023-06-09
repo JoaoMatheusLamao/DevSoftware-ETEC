@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\bin\Debug\Salario liquido.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\bin\Debug\Salario liquido.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\bin\Debug\Salario liquido.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\obj\Debug\Salario liquido.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\obj\Debug\Salario liquido.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\obj\Debug\Salario liquido.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 21 - Salário Líquido\Salario liquido\obj\Debug\Salario liquido.pdb

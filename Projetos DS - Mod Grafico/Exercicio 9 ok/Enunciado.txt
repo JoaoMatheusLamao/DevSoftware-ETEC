@@ -1,0 +1,4 @@
+Enunciado 9
+
+Elaborar um programa em C# que verifique se um número é positivo e
+calcule o quadrado desse número.

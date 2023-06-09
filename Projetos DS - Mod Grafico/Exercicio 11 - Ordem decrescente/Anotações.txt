@@ -1,0 +1,33 @@
+/*menor numero*/
+            if (ent1 < ent2 && ent1 < ent3 && ent1 < ent4 && ent1 < ent5)
+            {
+                menor = ent1;
+            }
+            else
+            {
+                if (ent2 < ent1 && ent2 < ent3 && ent2 < ent4 && ent2 < ent5)
+                {
+                    menor = ent2;
+                }
+                else
+                {
+                    if (ent3 < ent1 && ent3 < ent2 && ent3 < ent4 && ent3 < ent5)
+                    {
+                        menor = ent3;
+                    }
+                    else
+                    {
+                        if (ent4 < ent1 && ent4 < ent2 && ent4 < ent3 && ent4 < ent5)
+                        {
+                            menor = ent4;
+                        }
+                        else
+                        {
+                            if (ent5 < ent1 && ent5 < ent2 && ent5 < ent3 && ent5 < ent4)
+                            {
+                                menor = ent5;
+                            }
+                        }
+                    }
+                }
+            }

@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 2 - Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb

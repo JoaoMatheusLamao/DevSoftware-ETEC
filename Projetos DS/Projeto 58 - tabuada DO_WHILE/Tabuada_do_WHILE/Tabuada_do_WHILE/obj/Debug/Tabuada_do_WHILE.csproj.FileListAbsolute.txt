@@ -1,0 +1,6 @@
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\bin\Debug\Tabuada_do_WHILE.exe.config
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\bin\Debug\Tabuada_do_WHILE.exe
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\bin\Debug\Tabuada_do_WHILE.pdb
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\obj\Debug\Tabuada_do_WHILE.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\obj\Debug\Tabuada_do_WHILE.exe
+E:\2º ETIM DS\Projetos DS\Projeto 58 - tabuada DO_WHILE\Tabuada_do_WHILE\Tabuada_do_WHILE\obj\Debug\Tabuada_do_WHILE.pdb

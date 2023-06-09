@@ -1,0 +1,9 @@
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\bin\Debug\Exercicio 3 - Modo Grafico.exe.config
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\bin\Debug\Exercicio 3 - Modo Grafico.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\bin\Debug\Exercicio 3 - Modo Grafico.pdb
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio 3 - Modo Grafico.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio_3___Modo_Grafico.Form1.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio_3___Modo_Grafico.Properties.Resources.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio 3 - Modo Grafico.csproj.GenerateResource.Cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio 3 - Modo Grafico.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Exercicio 3 - Modo Grafico\Exercicio 3 - Modo Grafico\obj\Debug\Exercicio 3 - Modo Grafico.pdb

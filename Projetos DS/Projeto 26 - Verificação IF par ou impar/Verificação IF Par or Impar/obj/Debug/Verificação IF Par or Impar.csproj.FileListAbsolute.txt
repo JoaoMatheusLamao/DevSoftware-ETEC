@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\bin\Debug\Verificação IF Par or Impar.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\bin\Debug\Verificação IF Par or Impar.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\bin\Debug\Verificação IF Par or Impar.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\obj\Debug\Verificação IF Par or Impar.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\obj\Debug\Verificação IF Par or Impar.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\obj\Debug\Verificação IF Par or Impar.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 26 - Verificação IF par ou impar\Verificação IF Par or Impar\obj\Debug\Verificação IF Par or Impar.pdb

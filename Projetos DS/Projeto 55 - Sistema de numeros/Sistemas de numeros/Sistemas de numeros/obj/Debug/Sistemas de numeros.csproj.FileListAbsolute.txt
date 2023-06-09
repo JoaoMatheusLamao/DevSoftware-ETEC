@@ -1,0 +1,6 @@
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\bin\Debug\Sistemas de numeros.exe.config
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\bin\Debug\Sistemas de numeros.exe
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\bin\Debug\Sistemas de numeros.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\obj\Debug\Sistemas de numeros.csprojResolveAssemblyReference.cache
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\obj\Debug\Sistemas de numeros.exe
+D:\2º ETIM DS\Projetos DS\Projeto 55 - Sistema de numeros\Sistemas de numeros\Sistemas de numeros\obj\Debug\Sistemas de numeros.pdb

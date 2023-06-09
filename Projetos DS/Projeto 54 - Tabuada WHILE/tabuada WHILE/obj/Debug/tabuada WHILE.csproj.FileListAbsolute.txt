@@ -1,0 +1,6 @@
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\bin\Debug\tabuada WHILE.exe.config
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\bin\Debug\tabuada WHILE.exe
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\bin\Debug\tabuada WHILE.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\obj\Debug\tabuada WHILE.csprojResolveAssemblyReference.cache
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\obj\Debug\tabuada WHILE.exe
+D:\2º ETIM DS\Projetos DS\Projeto 54 - Tabuada FOR\tabuada WHILE\obj\Debug\tabuada WHILE.pdb

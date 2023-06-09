@@ -1,0 +1,9 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\bin\Debug\ListadeNomes.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\bin\Debug\ListadeNomes.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\bin\Debug\ListadeNomes.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.FrmlistadeNomes.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 12 - Lista de nomes\ListadeNomes\ListadeNomes\obj\Debug\ListadeNomes.pdb

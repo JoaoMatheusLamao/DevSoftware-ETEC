@@ -1,0 +1,20 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.FrmMoviTeclas.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.pdb
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe.config
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.exe
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\bin\Debug\MoviTeclas.pdb
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.FrmMoviTeclas.resources
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.Properties.Resources.resources
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.GenerateResource.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.exe
+C:\Users\joaom\Desktop\Cursos\DevSoftware-ETEC\Projetos DS - Mod Grafico\Exercicio 16 - Controle de teclas na aplicação\MoviTeclas\MoviTeclas\obj\Debug\MoviTeclas.pdb

@@ -1,0 +1,9 @@
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\bin\Debug\Modo Gráfico - Tutorial.exe.config
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\bin\Debug\Modo Gráfico - Tutorial.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\bin\Debug\Modo Gráfico - Tutorial.pdb
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo Gráfico - Tutorial.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo_Gráfico___Tutorial.Form1.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo_Gráfico___Tutorial.Properties.Resources.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo Gráfico - Tutorial.csproj.GenerateResource.Cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo Gráfico - Tutorial.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Modo Gráfico - Tutorial\Modo Gráfico - Tutorial\obj\Debug\Modo Gráfico - Tutorial.pdb

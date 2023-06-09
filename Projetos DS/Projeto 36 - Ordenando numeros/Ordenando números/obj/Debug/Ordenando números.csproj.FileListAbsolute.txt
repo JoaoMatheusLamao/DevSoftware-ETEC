@@ -1,0 +1,13 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\bin\Debug\Ordenando números.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 36 - Ordenando numeros\Ordenando números\obj\Debug\Ordenando números.csprojResolveAssemblyReference.cache

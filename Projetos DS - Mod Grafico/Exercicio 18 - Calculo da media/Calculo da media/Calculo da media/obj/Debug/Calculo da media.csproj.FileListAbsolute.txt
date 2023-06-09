@@ -1,0 +1,18 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo_da_media.FrmCalcMedia.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo_da_media.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.pdb
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.exe.config
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.exe
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.pdb
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.exe
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\bin\Debug\Calculo da media.pdb
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.csprojResolveAssemblyReference.cache
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo_da_media.FrmCalcMedia.resources
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo_da_media.Properties.Resources.resources
+J:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 18 - Calculo da media\Calculo da media\Calculo da media\obj\Debug\Calculo da media.csproj.GenerateResource.Cache

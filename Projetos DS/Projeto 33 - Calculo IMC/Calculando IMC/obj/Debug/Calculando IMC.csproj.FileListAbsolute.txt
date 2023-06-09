@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\bin\Debug\Calculando IMC.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\bin\Debug\Calculando IMC.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\bin\Debug\Calculando IMC.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\obj\Debug\Calculando IMC.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\obj\Debug\Calculando IMC.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\obj\Debug\Calculando IMC.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 33 - Calculo IMC\Calculando IMC\obj\Debug\Calculando IMC.pdb

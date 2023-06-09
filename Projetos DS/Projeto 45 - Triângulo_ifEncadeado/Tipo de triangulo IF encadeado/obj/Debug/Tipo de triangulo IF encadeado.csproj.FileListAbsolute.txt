@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\bin\Debug\Tipo de triangulo IF encadeado.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\bin\Debug\Tipo de triangulo IF encadeado.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\bin\Debug\Tipo de triangulo IF encadeado.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\obj\Debug\Tipo de triangulo IF encadeado.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\obj\Debug\Tipo de triangulo IF encadeado.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\obj\Debug\Tipo de triangulo IF encadeado.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 45 - Triângulo_ifEncadeado\Tipo de triangulo IF encadeado\obj\Debug\Tipo de triangulo IF encadeado.pdb

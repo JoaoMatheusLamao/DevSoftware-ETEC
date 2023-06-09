@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\bin\Debug\Verificação de divisão por 5.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\bin\Debug\Verificação de divisão por 5.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\bin\Debug\Verificação de divisão por 5.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\obj\Debug\Verificação de divisão por 5.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\obj\Debug\Verificação de divisão por 5.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\obj\Debug\Verificação de divisão por 5.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 23 - Estrutura IF ELSE verificação de divisão por 5\Verificação de divisão por 5\obj\Debug\Verificação de divisão por 5.pdb

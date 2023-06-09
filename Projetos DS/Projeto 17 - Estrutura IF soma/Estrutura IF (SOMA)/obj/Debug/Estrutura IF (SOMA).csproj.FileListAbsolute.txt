@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\bin\Debug\Estrutura IF (SOMA).exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\bin\Debug\Estrutura IF (SOMA).exe
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\bin\Debug\Estrutura IF (SOMA).pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\obj\Debug\Estrutura IF (SOMA).csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\obj\Debug\Estrutura IF (SOMA).csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\obj\Debug\Estrutura IF (SOMA).exe
+D:\2º ETIM DS\DS\Projetos\Projeto 17 - Estrutura IF soma\Estrutura IF (SOMA)\obj\Debug\Estrutura IF (SOMA).pdb

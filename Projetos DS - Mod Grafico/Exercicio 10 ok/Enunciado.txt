@@ -1,0 +1,7 @@
+Enunciado
+
+Elaborar um programa em C# que entre com o nome do funcionário, o
+cargo, a quantidade de horas trabalhadas, o valor da hora trabalhada, o
+percentual de desconto. Calcule o salário líquido desse funcionário. E
+mostre o nome do funcionário, cargo e salário líquido somente se o valor
+do salário líquido for maior ou igual a R$ 1000,00.

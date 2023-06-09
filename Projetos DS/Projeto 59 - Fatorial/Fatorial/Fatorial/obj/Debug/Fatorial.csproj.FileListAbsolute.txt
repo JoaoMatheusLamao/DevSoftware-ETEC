@@ -1,0 +1,12 @@
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+E:\2º ETIM DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS\Projeto 59 - Fatorial\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache

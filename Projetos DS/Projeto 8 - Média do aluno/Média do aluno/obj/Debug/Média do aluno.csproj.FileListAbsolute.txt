@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\bin\Debug\Média do aluno.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\bin\Debug\Média do aluno.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\bin\Debug\Média do aluno.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\obj\Debug\Média do aluno.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\obj\Debug\Média do aluno.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\obj\Debug\Média do aluno.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 8 - Média do aluno\Média do aluno\obj\Debug\Média do aluno.pdb

@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\bin\Debug\Inicial do cliente.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\bin\Debug\Inicial do cliente.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\bin\Debug\Inicial do cliente.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\obj\Debug\Inicial do cliente.csproj.AssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\obj\Debug\Inicial do cliente.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\obj\Debug\Inicial do cliente.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 39 - Inicial do cliente\Inicial do cliente\obj\Debug\Inicial do cliente.pdb

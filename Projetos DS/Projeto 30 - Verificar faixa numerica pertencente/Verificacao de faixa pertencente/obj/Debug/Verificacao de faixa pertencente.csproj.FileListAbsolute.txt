@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\bin\Debug\Verificacao de faixa pertencente.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\bin\Debug\Verificacao de faixa pertencente.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\bin\Debug\Verificacao de faixa pertencente.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\obj\Debug\Verificacao de faixa pertencente.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\obj\Debug\Verificacao de faixa pertencente.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\obj\Debug\Verificacao de faixa pertencente.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 30 - Verificar faixa numerica pertencente\Verificacao de faixa pertencente\obj\Debug\Verificacao de faixa pertencente.pdb

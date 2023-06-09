@@ -1,0 +1,6 @@
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\bin\Debug\15 pessoas FOR.exe.config
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\bin\Debug\15 pessoas FOR.exe
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\bin\Debug\15 pessoas FOR.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\obj\Debug\15 pessoas FOR.exe
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\obj\Debug\15 pessoas FOR.pdb
+D:\2º ETIM DS\Projetos DS\Projeto 53 - 15 pessoas FOR\15 pessoas FOR\obj\Debug\15 pessoas FOR.csprojResolveAssemblyReference.cache

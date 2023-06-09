@@ -1,0 +1,27 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojResolveAssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.GenerateResource.Cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\bin\Debug\Exercicio 8.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\bin\Debug\Exercicio 8.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio_8.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio_8.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio 8.csproj.GenerateResource.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio 8.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 9\Exercicio 9\Exercicio 8\obj\Debug\Exercicio 8.pdb

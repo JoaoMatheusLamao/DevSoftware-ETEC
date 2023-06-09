@@ -1,0 +1,7 @@
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\bin\Debug\Siglas estaduais.exe.config
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\bin\Debug\Siglas estaduais.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\bin\Debug\Siglas estaduais.pdb
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\obj\Debug\Siglas estaduais.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\obj\Debug\Siglas estaduais.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\obj\Debug\Siglas estaduais.exe
+C:\Users\joaom\Desktop\pen drive\2º ETIM DS\DS\Projetos\Projeto 37  -Siglas estaduais\Siglas estaduais\obj\Debug\Siglas estaduais.pdb

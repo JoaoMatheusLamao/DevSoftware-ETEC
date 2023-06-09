@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\obj\Debug\Soma de dois números.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\obj\Debug\Soma de dois números.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\bin\Debug\Soma de dois números.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\bin\Debug\Soma de dois números.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\bin\Debug\Soma de dois números.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\obj\Debug\Soma de dois números.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 3 - Soma de dois números\Soma de dois números\obj\Debug\Soma de dois números.pdb

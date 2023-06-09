@@ -1,0 +1,6 @@
+Exercicio 2 
+
+Elaborar um programa em C# que leia o percurso em quilômetros, o tipo
+do carro e informe o consumo estimado de combustível, sabendo se que
+um carro do tipo A faz 12km com um litro de gasolina, um tipo B faz 9km
+e o tipo C 8km por litro.

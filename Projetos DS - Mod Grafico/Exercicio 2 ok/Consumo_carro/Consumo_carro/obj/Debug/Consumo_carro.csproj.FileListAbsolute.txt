@@ -1,0 +1,19 @@
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.exe.config
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.pdb
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.csprojResolveAssemblyReference.cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.Form1.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.Properties.Resources.resources
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.csproj.GenerateResource.Cache
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.exe
+E:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.exe.config
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\bin\Debug\Consumo_carro.pdb
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.csproj.AssemblyReference.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.Form1.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.Properties.Resources.resources
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.csproj.GenerateResource.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.exe
+D:\2º ETIM DS\2° SEMESTRE\DS\Projetos DS - Mod Grafico\Exercicio 2 ok\Consumo_carro\Consumo_carro\obj\Debug\Consumo_carro.pdb

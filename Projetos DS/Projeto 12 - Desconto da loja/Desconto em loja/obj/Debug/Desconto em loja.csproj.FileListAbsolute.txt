@@ -1,0 +1,7 @@
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\bin\Debug\Desconto em loja.exe.config
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\bin\Debug\Desconto em loja.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\bin\Debug\Desconto em loja.pdb
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\obj\Debug\Desconto em loja.csprojAssemblyReference.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\obj\Debug\Desconto em loja.csproj.CoreCompileInputs.cache
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\obj\Debug\Desconto em loja.exe
+D:\2º ETIM DS\DS\Projetos\Projeto 12 - Desconto da loja\Desconto em loja\obj\Debug\Desconto em loja.pdb

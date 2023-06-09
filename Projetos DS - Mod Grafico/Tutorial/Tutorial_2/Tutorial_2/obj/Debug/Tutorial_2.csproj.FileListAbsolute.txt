@@ -1,0 +1,8 @@
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\bin\Debug\Tutorial_2.exe.config
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\bin\Debug\Tutorial_2.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\bin\Debug\Tutorial_2.pdb
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\obj\Debug\Tutorial_2.Form1.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\obj\Debug\Tutorial_2.Properties.Resources.resources
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\obj\Debug\Tutorial_2.csproj.GenerateResource.Cache
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\obj\Debug\Tutorial_2.exe
+E:\2º ETIM DS\Projetos DS - Mod Grafico\Tutorial\Tutorial_2\Tutorial_2\obj\Debug\Tutorial_2.pdb
